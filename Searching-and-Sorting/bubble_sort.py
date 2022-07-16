@@ -3,7 +3,7 @@
 
  a        |  1   |   2   |  3   |  4   | nthsize |
 comp      |  0   |   1   |  2   |  3   |  n-1    |
-iterations|  0   |   1   |  2   |  2   |  n-1    |
+iterations|  0   |   1   |  2   |  3   |  n-1    |
 
     Time complexity average = O(n^2)
 """
